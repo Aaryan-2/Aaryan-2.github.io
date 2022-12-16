@@ -58,19 +58,19 @@
             }
 
             $scope.setCur = function () {
-                if($scope.order === "orVal") {
-                    $scope.order = "-orVal";
+                if($scope.order === "price") {
+                    $scope.order = "-price";
                     return;
                 }
-                $scope.order = "orVal";
+                $scope.order = "price";
             }
 
             $scope.setSt = function () {
-                if($scope.order === "orSt") {
-                    $scope.order = "-orSt";
+                if($scope.order === "trSt") {
+                    $scope.order = "-trSt";
                     return;
                 }
-                $scope.order = "orSt";
+                $scope.order = "trSt";
             }
         })
         .filter('inrValue', InrFilter)
