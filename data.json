@@ -4,7 +4,7 @@
         "name": "Ana",
         "gender": "f",
         "date": "1999-09-17",
-        "place":"India",
+        "place":"Delhi",
         "price": 12000,
         "trSt": "Completed"
     },
@@ -13,7 +13,7 @@
         "name": "Ricc",
         "gender": "f",
         "date": "2005-03-29",
-        "place":"India",
+        "place":"Mumbai",
         "price": 9000.75,
         "trSt": "Yet to Travel"
     },
@@ -22,7 +22,7 @@
         "name": "Ash",
         "gender": "f",
         "date": "1990-07-04",
-        "place":"India",
+        "place":"Pune",
         "price": 22000.9,
         "trSt": "Completed"
     },
@@ -31,7 +31,7 @@
         "name": "Sam",
         "gender": "m",
         "date": "2000-03-17",
-        "place":"India",
+        "place":"Kolkata",
         "price": 13000.75,
         "trSt": "Yet to Travel"
     },
@@ -40,7 +40,7 @@
         "name": "Avi",
         "gender": "m",
         "date": "1990-12-25",
-        "place":"India",
+        "place":"Bangalore",
         "price": 100000.5,
         "trSt": "Yet to Travel"
     },
@@ -49,7 +49,7 @@
         "name": "Vishakh",
         "gender": "m",
         "date": "2004-03-24",
-        "place":"India",
+        "place":"Agra",
         "price": 11000.75,
         "trSt": "Yet to Travel"
     }
