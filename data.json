@@ -1,45 +1,45 @@
 [
     {
         "trDate": "2022-11-20",
-        "name": "Awantika",
+        "name": "Ana",
         "gender": "f",
-        "date": "2001-09-17",
+        "date": "1999-09-17",
         "place":"India",
         "price": 12000,
         "trSt": "Completed"
     },
     {
         "trDate": "2022-11-04",
-        "name": "Richa",
+        "name": "Ricc",
         "gender": "f",
-        "date": "2008-03-29",
+        "date": "2005-03-29",
         "place":"India",
         "price": 9000.75,
         "trSt": "Yet to Travel"
     },
     {
         "trDate": "2022-10-31",
-        "name": "Ashwini",
+        "name": "Ash",
         "gender": "f",
-        "date": "1987-07-04",
+        "date": "1990-07-04",
         "place":"India",
         "price": 22000.9,
         "trSt": "Completed"
     },
     {
         "trDate": "2022-11-04",
-        "name": "Sidhant",
+        "name": "Sam",
         "gender": "m",
-        "date": "2001-03-17",
+        "date": "2000-03-17",
         "place":"India",
         "price": 13000.75,
         "trSt": "Yet to Travel"
     },
     {
         "trDate": "2022-11-04",
-        "name": "Aviral",
+        "name": "Avi",
         "gender": "m",
-        "date": "2000-12-25",
+        "date": "1990-12-25",
         "place":"India",
         "price": 100000.5,
         "trSt": "Yet to Travel"
@@ -48,7 +48,7 @@
         "trDate": "2022-11-04",
         "name": "Vishakh",
         "gender": "m",
-        "date": "2001-03-24",
+        "date": "2004-03-24",
         "place":"India",
         "price": 11000.75,
         "trSt": "Yet to Travel"
